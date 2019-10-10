@@ -1,2 +1,2 @@
 # AD
-Using the speech data of Alzheimer's disease to identify AD
+Using the speech data of elderly to identify AD
